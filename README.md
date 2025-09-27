@@ -417,7 +417,7 @@ ecommerce-customer-analytics/
 - Business Intelligence Analyst
 - Machine Learning Engineer
 
-**Contact:** [Your Email] | [LinkedIn Profile] | [Portfolio Website]
+**Contact:** na.le@uni.minerva.edu | [LinkedIn](https://www.linkedin.com/in/na-le-xm/)
 
 ---
 
