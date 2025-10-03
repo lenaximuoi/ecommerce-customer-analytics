@@ -412,10 +412,9 @@ ecommerce-customer-analytics/
 ## 🤝 Connect & Collaborate
 
 **Looking for opportunities in:**
-- Data Science Roles
-- Customer Analytics Positions
+- Data Science
+- Data Analytics
 - Business Intelligence Analyst
-- Machine Learning Engineer
 
 **Contact:** na.le@uni.minerva.edu | [LinkedIn](https://www.linkedin.com/in/na-le-xm/)
 
