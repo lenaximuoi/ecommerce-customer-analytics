@@ -384,21 +384,24 @@ rf_spend.fit(X_train_spend_scaled, y_train_spend)
 ecommerce-customer-analytics/
 │
 ├── data/
-│   └── customer_data.csv
+│   └── E-commerce Customer Behavior data.csv
 │
 ├── notebooks/
-│   └── customer_behavior_analysis.ipynb
+│   └── E-commerce Customer Analytics.ipynb
 │
 ├── src/
-│   ├── data_preprocessing.py
-│   ├── exploratory_analysis.py
-│   ├── customer_segmentation.py
-│   └── predictive_modeling.py
+│   ├── 1. __init__.py
+│   ├── 2. data cleaning and preprocessing.py
+│   ├── 3. eda.py
+│   ├── 4. customer_segmentation.py
+│   └── 5. predictive_modeling.py
 │
 ├── visualizations/
-│   ├── eda_dashboard.png
-│   ├── customer_segments.png
-│   └── model_performance.png
+│   ├── 1. eda_dashboard.png
+│   ├── 2. eda_correlation.png
+│   ├── 3. customer_segmentation.png
+│   ├── 4. elbow_method.png
+│   └── 5. model_accuracy.png
 │
 ├── reports/
 │   └── business_insights_report.md
